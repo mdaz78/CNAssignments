@@ -130,3 +130,17 @@
 
    [Solution - 8] (https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
 
+9. Print the following pattern for the given number of rows
+
+  Pattern for N = 4
+
+  1
+
+  11
+
+  121
+
+  1221
+
+   [Solution - 9] (https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+

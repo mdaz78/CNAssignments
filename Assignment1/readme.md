@@ -39,5 +39,29 @@
 
    [Solution - 3](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/threes.java)
 
+4. Write a program to calculate the roots of a given quadratic equation -
+   a(x^2) + bx + c = 0
 
+   Print roots specifying their nature. If roots are imaginary, no need to print the roots.
+
+   Print the nature of roots in the form of an integer - 
+   
+  0 : if roots are real and same
+
+  1 : if roots are real and different
+
+  -1 : if roots are imaginary
+
+
+   Round of the roots and then print the integral part only i.e. without any decimal places.
+
+   You can assume that, input will always be a quadratic equation.
+
+   Input format : a b c (separated by space)
+
+   Output format :  
+  
+  Line 1 : Nature of roots (0 or 1 or -1)
+
+  Line 2 : Root 1 and Root 2 (separated by space)
     

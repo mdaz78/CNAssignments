@@ -81,4 +81,25 @@
   Sample output : 6 4
   
    [Solution - 5](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+
+6. Write a program to find x to the power n (i.e. x^n). Take x and n from the user. You need to print the answer.
+
+   Input format :
+  
+  Line 1 : x
+
+  Line 2 : n
+
+   Sample Input 1:
+  
+  3
+
+  4
+
+   Sample output 2:
+
+  81
+
+  [Solution - 6](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+
   

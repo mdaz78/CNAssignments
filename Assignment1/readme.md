@@ -116,4 +116,17 @@
 
    [Solution - 7](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
 
+8. Print the following pattern for the given number of rows
+   
+  Pattern for N = 4
   
+  1
+  
+  11
+
+  202
+
+  3003
+
+   [Solution - 8] (https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+

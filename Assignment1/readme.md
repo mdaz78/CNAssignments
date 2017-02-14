@@ -102,4 +102,18 @@
 
   [Solution - 6](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
 
+7. Print the following pattern for the given number of rows.
+
+  Pattern for N = 4
+
+  1
+
+  11
+
+  111
+
+  1111
+
+   [Solution - 7](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+
   

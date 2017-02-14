@@ -107,8 +107,11 @@
   Pattern for N = 4
 
   1
+  
   11
+  
   111
+  
   1111
 
    [Solution - 7](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)

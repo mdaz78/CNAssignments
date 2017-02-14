@@ -64,4 +64,7 @@
   Line 1 : Nature of roots (0 or 1 or -1)
 
   Line 2 : Root 1 and Root 2 (separated by space)
+
+   [Solution - 4](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+
     

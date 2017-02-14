@@ -67,4 +67,18 @@
 
    [Solution - 4](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
 
-    
+5.  Write a program to input a number and print the sum of all it's even digits and sum of all its odd digits separately.
+
+   Digits means, numbers not the places. That is, if a number is "13245", even digits are 2 & 4 and odd digits are 1, 3 & 5.
+   
+   Input format : An integer
+   
+  Output format : SumOfEvenDigits SumOfOddDigits
+   
+  (Print first even sum and then odd sum separated by space)
+   
+   Sample Inout : 1234
+  Sample output : 6 4
+  
+   [Solution - 5](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+  

@@ -144,3 +144,17 @@
 
    [Solution - 9] (https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
 
+10. Print the following pattern for the given number of rows
+
+  Pattern for N = 4
+
+  1234
+
+  123
+
+  12
+
+  1
+
+   [Solution - 10](https://github.com/mdaz78/CNAssignments/blob/master/Assignment1/two.java)
+

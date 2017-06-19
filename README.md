@@ -3,11 +3,11 @@ Contains all the assignments of Coding Ninjas Nucleus course
 
 _Languages used to solve problems : C_
 
-1. [Assignment - 1 (Basics of Programming in Java Loops and conditions - I)] (https://github.com/mdaz78/CNAssignments/tree/master/Assignment1) 
-2. Assignment - 2 (Basics of Programming in Java Loops and Conditions - II)
-3. Assignment - 3 (Arrays in Java)
+1. [Assignment - 1 (Basics of Programming Loops and conditions - I)] (https://github.com/mdaz78/CNAssignments/tree/master/Assignment1) 
+2. Assignment - 2 (Basics of Programming Loops and Conditions - II)
+3. Assignment - 3 (Arrays)
 4. Assignment - 4 (Searching and Sorting)
-5. Assignment - 5 (Strings in Java)
+5. Assignment - 5 (Strings)
 6. Assignment - 6 (Recursion - I)
 7. Assignment - 7 (Recursion - II)
 8. Assignment - 8 (Recursion - III)

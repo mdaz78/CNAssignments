@@ -1,7 +1,7 @@
 ## Coding Ninjas Assignments
 Contains all the assignments of Coding Ninjas Nucleus course
 
-_Languages used to solve problems : Java_
+_Languages used to solve problems : C_
 
 1. [Assignment - 1 (Basics of Programming in Java Loops and conditions - I)] (https://github.com/mdaz78/CNAssignments/tree/master/Assignment1) 
 2. Assignment - 2 (Basics of Programming in Java Loops and Conditions - II)
